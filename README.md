@@ -545,7 +545,7 @@ canadian-fhir-interoperability/
 │   └── gateway-fixtures/
 ├── api/
 │   ├── postman/
-│   ├── openapi/
+│   ├── Lama or Mistral/
 │   └── capability-statement.json
 ├── infra/
 │   ├── docker/
